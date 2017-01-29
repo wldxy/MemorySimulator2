@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemTwo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemTwo_jar</output-path>
+    <root id="archive" name="MemTwo.jar">
+      <element id="module-output" name="MemTwo" />
+    </root>
+  </artifact>
+</component>
